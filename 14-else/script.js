@@ -4,4 +4,6 @@ const age = 17;
 if (age >= 20) {
   console.log("私は20歳以上です");
 } 
-
+else {
+  console.log("私は20歳未満です");
+}
