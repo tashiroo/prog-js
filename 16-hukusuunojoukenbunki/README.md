@@ -1,6 +1,6 @@
 # 課題 URL
 
-- https://prog-8.com/es6/study/1/13#
+- https://prog-8.com/es6/study/1/17#
 
 ## 勉強したこと 注意点
 
