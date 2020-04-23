@@ -6,9 +6,13 @@ switch (rank) {
     break;
 
   // rankの値が2のcaseを追加してください
-  
+  case 2:
+    console.log("銀メダルです！")
+    break;
   
   // rankの値が3のcaseを追加してください
-  
+  case 3:
+    console.log("銅メダルです！")
+    break;
   
 }
