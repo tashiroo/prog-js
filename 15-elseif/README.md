@@ -10,6 +10,6 @@
 
 - else if 文の入力方法は if 文の頭に else をくっつける以上。ただし else と if の間はスペースで開ける。
 
-- 基本は、<br>宣言<br>if(条件式) <br> { console.log("条件式が値と一致するなら～");<br> }<br>else if (条件式) {<br>console.log("条件式が値と言ってするなら～")<br>else {<br>console.log("条件式が値と一致しないなら～")<br>}
+- 基本は、<br>宣言<br>if(条件式) <br> { console.log("条件式が値と一致するなら～");<br> }<br>else if (条件式 2) {<br>console.log("条件式 2 が値と一致するなら～")<br>else {<br>console.log("条件式が値と一致しないなら～")<br>}
 
 - もっと単純にすると<br>if 文<br>頭に else を付けた if 文<br>else 文
