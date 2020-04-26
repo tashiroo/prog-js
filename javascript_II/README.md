@@ -1,4 +1,4 @@
-# JavaScript I
+# JavaScript Ⅱ
 
 ## 1 章　繰り返し処理
 
