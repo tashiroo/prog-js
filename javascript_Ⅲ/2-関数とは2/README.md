@@ -4,4 +4,8 @@
 
 ## 関数とは2
 
--
+- 前回の内容を全部入力する問題
+
+- READMEをよく読んでおこう
+
+- https://blog.codecamp.jp/javascript-function-use このサイトで見たマクドの絵がすごくわかりやすかった

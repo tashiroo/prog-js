@@ -1,7 +1,7 @@
 const number1 = 103; 
 const number2 = 72; 
 const number3 = 189; 
-// 引数名はa,b,cを使う定数名はgetmax if文を利用しnumber1.2.3の最大値を出しなさい
+// 引数名はa,b,cを使う、定数名はgetmax、if文を利用しnumber1.2.3の最大値を出しなさい
 // getMax関数を定義してください
 const getmax = (a, b, c) =>{
   let max = a;  
@@ -14,7 +14,7 @@ const getmax = (a, b, c) =>{
   else {
     console.log(max = a);
   }
-  return max
+  return max ;
 };
 
 // 定数maxを定義
